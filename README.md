@@ -2,9 +2,9 @@
 <h1>Manual pure code of Convolution-Pooling-Dropout</h1>
 Convolution Pooling are most famuse and important function in Deeplearning in Image processing as noise and dimentional reduction. The manual code wroted by me, and it is open source to use, it can changed the architecture of Convoltion Pooling and dropout. 
 <h2>prerequisite</h2>
-1. numpy
-2. cv2
-3. skimage
+-numpy
+-cv2
+-skimage
 
 insert image in jpg and run.
 ![Output result](Sample_Output.png)
